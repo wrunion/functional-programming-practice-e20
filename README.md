@@ -1,11 +1,11 @@
-# Image Finder 
+# Functional Programming Practice 
 
 #### Enter a keyword to see a beautiful image with metadata and links. Epicodus independent project, 3/24/2020
 
-#### By **Winter A. Runion**
+#### By **Kent P. McKinney, Jordan Safford, Winter A. Runion**
 
 ### Description
-A single-page JavaScript app built with Webpack, to show images and image metada to the user, via Unsplash API.
+Just a repo to practice [Epicodus' lessons on functional programming](https://www.learnhowtoprogram.com/react-part-time-react-track/functional-programming-with-javascript-d29c6d11-ed51-4309-8e50-d55fa93281ec).
 
 ### Instructions for Mac
 ##### To run this project locally, you need: NPM, Node.js, and an API key from [Unsplash.com](https://unsplash.com/developers). All of these are free.
